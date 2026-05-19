@@ -74,4 +74,4 @@ python main.py
 
 # Geliştirici
 
-İsmail
+İsmail Ekinci
